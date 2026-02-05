@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\krist\\InlämningAPI\\InlämningAPI.csproj",
-      "projectName": "InlämningAPI",
-      "projectPath": "C:\\Users\\krist\\InlämningAPI\\InlämningAPI.csproj",
+      "projectUniqueName": "C:\\Users\\krist\\InlämningAPI\\InlamningAPI.csproj",
+      "projectName": "InlamningAPI",
+      "projectPath": "C:\\Users\\krist\\InlämningAPI\\InlamningAPI.csproj",
       "packagesPath": "C:\\Users\\krist\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\krist\\InlämningAPI\\obj\\",
       "projectStyle": "PackageReference",
