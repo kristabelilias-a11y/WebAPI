@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InlämningAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ce90cd8f3af4325d18664fd81f7b77d7d699fbd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+06ecffea1941371462ef7948b4d0cfea7556a63e")]
 [assembly: System.Reflection.AssemblyProductAttribute("InlämningAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InlämningAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
